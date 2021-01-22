@@ -3,6 +3,7 @@ venv/
 .env
 .envrc
 .vscode/
+myvenv/
 
 # Python stuff
 *__pycache__*
